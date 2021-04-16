@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Flutter, but I have also learnt Python, Typescript and ReactJS.
 - 📫 How to reach me: turedi.efkan@gmail.com 
 
+I'm young, motivated and energetic! Let's work together.
+
 <!---
 EfkTur/EfkTur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
